@@ -56,7 +56,7 @@ Create a new wallet address for each MasterNode.
 
 Close your QT Wallet.
 
-### Send 10,000 Helium to New Addresses
+### Send 1000 Helium to New Addresses
 
 Just like setting up a standard MN. Send exactly 10,000 Helium to each new address created above.
 
